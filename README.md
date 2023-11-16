@@ -1,9 +1,8 @@
 # Dummy-Heathcare-website
 This project is a dummy healthcare website created using HTML, CSS, and JavaScript. It serves as a simple example of a healthcare-related website with basic functionalities.
 
-Features
+Features-
 Homepage: Provides an overview of the healthcare services offered.
-
 About us: Details about how we work.
 Our Gallery: representing different moments we share among us.
 Team: where anyone can contact or go through the details.
